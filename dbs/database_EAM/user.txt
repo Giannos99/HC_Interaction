@@ -1,0 +1,8 @@
+﻿username#password#ar_taut#onoma#epitheto#nomos#polh#dieu8unsh#tk#email
+str#str#str#str#str#str#str#str#int#str
+##########
+yannis#iwannidis#A1128#yannis#iwannidis#axaias#tripolh#panepistimioupolis#1125#john@htomai.com
+maria#roussou#B34128#maria#roussou#attikhss#a8hna#kaisarianhs#14525#john@htomai.com
+katerina#elraheb#G25128#katerina#elraheb#attikhss#a8hna#zwgrafos#1541#john@htomai.com
+nikos#mpegetis#E28828#nikos#mpegetis#thesallonikhs#salonika#koridallos#15551#john@htomai.com
+dimitra#keramida#H26168#dimitra#keramida#attikhss#a8hna#e3arxeia#65482#john@htomai.com
